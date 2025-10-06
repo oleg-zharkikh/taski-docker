@@ -1,0 +1,13 @@
+# Файл .dockerignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+pip-log.txt
+Dockerfile
+.git
+.gitignore
+README.md
